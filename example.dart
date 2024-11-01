@@ -77,6 +77,7 @@ void main() {
         break;
       case '2':
         shoppingMall.addToCart();
+
         break;
       case '3':
         shoppingMall.showTotal();
